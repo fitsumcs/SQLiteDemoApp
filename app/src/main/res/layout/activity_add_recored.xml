@@ -39,6 +39,7 @@
         android:layout_height="61dp"
         android:layout_gravity="center"
         android:layout_marginTop="136dp"
+        android:background="#009688"
         android:onClick="addButtonPressed"
         android:text="@string/add_record"
         app:layout_constraintEnd_toEndOf="parent"

@@ -10,4 +10,5 @@
         android:title="@string/add_record"
         app:showAsAction="always"/>
 
+
 </menu>
